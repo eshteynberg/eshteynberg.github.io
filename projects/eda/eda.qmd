@@ -1,0 +1,29 @@
+---
+title: "My EDA Project"
+description: "This is my summer 2025 EDA project"
+date: "June 2025"
+resources: "."
+about: 
+  template: solana
+  image: cover.png
+  links:
+    - icon: github
+      text: "Github"
+      href: "https://github.com/eshteynberg/EDA-project"
+      target: _blank
+    - icon: easel
+      text: "Slides"
+      href: "https://eshteynberg.github.io/EDA-project/Shteynberg/EDA_Presentation#/title-slide"
+      target: _blank
+---
+
+This is my EDA project...
+
+Some info...
+
+Collaborators...
+
+```{r}
+hist(rnorm(100))
+```
+

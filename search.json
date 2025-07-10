@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Capstone project title\n\n\nThis is my summer 2025 capstone project description\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMy EDA Project\n\n\nThis is my summer 2025 EDA project\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/capstone/capstone.html",
+    "href": "projects/capstone/capstone.html",
+    "title": "Capstone project title",
+    "section": "",
+    "text": "This is my capstone project…\nSome info…\nCollaborators…\n\nhist(rnorm(100))"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Emily Shteynberg",
+    "section": "",
+    "text": "Welcome to my website! I am a second year undergrad at Cranberry Lemon University studying something.\nI’m interested in lunch and gym classes.\n\\(x^2\\)\nMy favorite package is tidyverse\n\nlibrary(tidyverse)"
+  },
+  {
+    "objectID": "projects/eda/eda.html",
+    "href": "projects/eda/eda.html",
+    "title": "My EDA Project",
+    "section": "",
+    "text": "This is my EDA project…\nSome info…\nCollaborators…\n\nhist(rnorm(100))"
+  }
+]
