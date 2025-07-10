@@ -1,0 +1,17 @@
+{
+  "hash": "f7af0be82307047beb825299f8a6a2ad",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Capstone project title\"\ndescription: \"This is my summer 2025 capstone project description\"\ndate: \"July 2025\"\nresources: \".\"\nabout: \n  template: solana\n  image: cover.jpg\n  links:\n    - icon: github\n      text: \"Github\"\n      href: \"https://github.com/eshteynberg/Football-Effort.git\"\n      target: _blank\n    - icon: easel\n      text: \"Slides\"\n      href: \"https://quarto.org/\"\n      target: _blank\n    - icon: file-code\n      text: \"Report\"\n      href: \"https://quarto.org/\"\n      target: _blank\n---\n\nThis is my capstone project...\n\nSome info...\n\nCollaborators...\n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(rnorm(100))\n```\n\n::: {.cell-output-display}\n![](capstone_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n",
+    "supporting": [
+      "capstone_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

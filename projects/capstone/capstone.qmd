@@ -1,0 +1,33 @@
+---
+title: "Capstone project title"
+description: "This is my summer 2025 capstone project description"
+date: "July 2025"
+resources: "."
+about: 
+  template: solana
+  image: cover.jpg
+  links:
+    - icon: github
+      text: "Github"
+      href: "https://github.com/eshteynberg/Football-Effort.git"
+      target: _blank
+    - icon: easel
+      text: "Slides"
+      href: "https://quarto.org/"
+      target: _blank
+    - icon: file-code
+      text: "Report"
+      href: "https://quarto.org/"
+      target: _blank
+---
+
+This is my capstone project...
+
+Some info...
+
+Collaborators...
+
+```{r}
+hist(rnorm(100))
+```
+

@@ -1,0 +1,29 @@
+---
+title: "Emily Shteynberg"
+about:
+  template: jolla
+  image: assets/photo.png
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:emilyshteynberg@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/eshteynberg
+      target: _blank
+---
+
+Welcome to my website! I am a second year undergrad at Cranberry Lemon University studying something.
+
+I'm interested in lunch and gym classes.
+
+$x^2$
+
+My favorite package is `tidyverse`
+
+```{r}
+#| eval: false
+library(tidyverse)
+```
+

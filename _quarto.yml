@@ -1,0 +1,36 @@
+project:
+  type: website
+  resources: assets
+
+website:
+  title: "Emily Shteynberg"
+  navbar: 
+    background: "#E8F4F8"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/eshteynberg/
+        target: _blank
+      - icon: github
+        href: https://github.com/eshteynberg
+        target: _blank
+      - icon: file-pdf
+        href: assets/EmilyShteynbergResume.pdf
+        target: _blank
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+
+

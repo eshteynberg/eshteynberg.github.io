@@ -1,0 +1,15 @@
+{
+  "hash": "53f1e20a252f605654311929b1e4c1c3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Emily Shteynberg\"\nabout:\n  template: jolla\n  image: assets/photo.png\n  image-shape: rectangle\n  links:\n    - icon: envelope\n      text: Email\n      href: mailto:emilyshteynberg@gmail.com\n    - icon: github\n      text: Github\n      href: https://github.com/eshteynberg\n      target: _blank\n---\n\nWelcome to my website! I am a second year undergrad at Cranberry Lemon University studying something.\n\nI'm interested in lunch and gym classes.\n\n$x^2$\n\nMy favorite package is `tidyverse`\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\n```\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
