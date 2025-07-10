@@ -5,7 +5,7 @@ project:
 website:
   title: "Emily Shteynberg"
   navbar: 
-    background: "#E8F4F8"
+    background: "#00008b"
     left:
       - href: index.qmd
         text: Home
