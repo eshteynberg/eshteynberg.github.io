@@ -25,6 +25,6 @@
     "href": "projects/capstone/capstone.html",
     "title": "Capstone project title",
     "section": "",
-    "text": "This is my capstone project…\nSome info…\nCollaborators…\n\nhist(rnorm(100))"
+    "text": "This is my capstone project…\nSome info…\nCollaborators…\nsomething\n\nhist(rnorm(100))"
   }
 ]
